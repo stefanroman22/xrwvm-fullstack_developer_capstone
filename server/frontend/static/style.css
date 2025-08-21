@@ -124,3 +124,18 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-box {
+    margin-left: 25%;
+    margin-top: 10%;
+    width: 50%;
+    /* height: 50%; */ /* remove this */
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: transparent;
+}
+.contact-box img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
